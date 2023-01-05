@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple cooking recipe website. The aim of making such website is to practice all the knowledge acquired during Odin's introductory course about html.
